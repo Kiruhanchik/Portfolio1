@@ -1,0 +1,141 @@
+body {
+    background-color: #362D51;
+    margin-left: 120px;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+h1 {
+    color: #FFFFFF;
+    font-size: 100px;
+}
+h2 {
+   color: #FFFFFF;
+   font-size: 58px;
+   padding-top: 0;
+}
+.Rectangle1 {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-right: 50px;
+    margin-top: 50px;
+    width: 87px;
+    height: 334px;
+}
+.I {
+    width: 600px;
+}
+.about {
+    display: table;
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-top: 94px;
+    border-top: 5px solid #E47070;
+    border-bottom: 5px solid #E47070;
+    padding-top: 34px;
+    padding-bottom: 34px;
+}
+.span {
+    display: flex;
+}
+.span-id {
+    color: #FFFFFF;
+    font-size: 41px;
+}
+.стрелка {
+    padding: 44px;
+}
+.span-id2 {
+    color: #BB3CE8;
+    font-size: 28px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+    text-decoration: none;
+    padding-top: 45px;
+    transition: 0.2s;
+    position: absolute;
+    padding-left: 618px;
+}
+.span-id2:hover {
+    color: rgb(245, 16, 16);
+}
+.contact {
+    display: flex;
+    margin-top: 94px;
+}
+.рамочка {
+    height: 320px;
+}
+.contact-id {
+    position: absolute;
+    font-size: 45px;
+    color: #FFFFFF;
+    padding-left: 120px;
+    padding-top: 40px;
+}
+.inst {
+    position: absolute;
+    padding-top: 159px;
+    padding-left: 120px;
+    font-size: 45px;
+    color: #FFFFFF;
+    transition: 0.2s;
+    text-decoration: none;
+}
+.inst:hover {
+    color: rgb(245, 16, 16);
+}
+.vk {
+    position: absolute;
+    padding-top: 233px;
+    padding-left: 120px;
+    font-size: 45px;
+    color: #FFFFFF;
+    transition: 0.2s;
+    text-decoration: none;
+}
+.vk:hover {
+    color: rgb(245, 16, 16);
+}
+.chel1 {
+    height: 250px;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.contact2 {
+    display: block;
+    margin-top: 94px;
+}
+.chel2 {
+    height: 400px;
+    padding-right: 35px;
+    padding-top: 94px;
+}
+.телефон {
+    position: absolute;
+    padding-top: 249px;
+    padding-left: 420px;
+    font-size: 45px;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: justify;
+}
+.почта {
+    display: inline-block;
+    position: absolute;
+    padding-top: 320px;
+    padding-left: 250px;
+    font-size: 45px;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: justify;
+}
+.рамочка2 {
+    padding-left: 484px;
+    height: 320px;
+}
+
+
+
+
